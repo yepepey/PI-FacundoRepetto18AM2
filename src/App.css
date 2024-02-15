@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  width: 100vw;
+  min-height: 100vh;
+  height: auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  background-image: url('../public/background-image.jpg');
+  background-size: cover;
 }
 
 .App-logo {
