@@ -1,0 +1,1 @@
+aca voy a estar haciendo las routas a donde se tiene que dirigir el back a buscar la logica

@@ -1,0 +1,26 @@
+.div {
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    position: fixed;
+    z-index: 1;
+}
+
+    
+.link {
+    width: 12vw;
+    height: 4vh;
+    border-radius: 0.3rem;
+    background-color: lightyellow;
+    border: none;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.link:hover {
+    width: 14vw;
+    height: 5vh;
+    transition: 0.4s;
+}

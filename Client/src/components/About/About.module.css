@@ -1,0 +1,27 @@
+.div {
+    width: 40vw;
+    height: 30vh;
+    background-color: white;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    padding: 0px 0px 5rem 0px;
+    position: relative;
+    border-radius: 0.4rem;
+    margin: 0.5rem;
+    top: 80px;
+}
+
+.p {
+    font-size: 18px;
+    line-height: 28px;
+    text-align: left;
+    padding: 0 20px;
+    margin: 0;
+}
+
+.h1 {
+    font-size: 24px;
+}

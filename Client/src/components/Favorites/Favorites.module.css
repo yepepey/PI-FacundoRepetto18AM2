@@ -1,0 +1,10 @@
+.div {
+    align-self: center;
+    width: 80vw;
+    height: auto;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 80px;
+}

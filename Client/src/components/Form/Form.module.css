@@ -1,0 +1,26 @@
+.errorsStyles {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.container {
+    width: 40vw;
+    height: 50vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.div {    
+    width: 18vw;
+    height: 2.5vh;
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem 0 4rem 0;
+    position: static;
+    border-radius: 0.4rem;
+    margin: 0.5rem;
+}
